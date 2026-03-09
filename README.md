@@ -14,6 +14,8 @@ MP3/WAV/FLACをGemini APIで音楽解析し、Suno v4.5向けStyleプロンプ�
 - **ワンクリックコピー** — 各プロンプトをクリップボードにコピーしてSunoにそのまま貼り付け可能
 - **日本語・英語UI切り替え** — ボタン1つで表示言語を切り替え
 
+<img width="862" height="827" alt="image" src="https://github.com/user-attachments/assets/e0d29b76-3434-45da-8af4-fb8f5083ea12" />
+
 ---
 
 ## 動作環境
